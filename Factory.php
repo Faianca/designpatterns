@@ -3,7 +3,7 @@
  * @package    designpatterns
  * @category   designpatterns
  * @author     Jorge Meireles
- * @copyright  (c) 2015 Jovago
+ * @copyright  (c) 2015
  */
 class Automobile
 {
